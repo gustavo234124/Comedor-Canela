@@ -57,7 +57,7 @@ body{
 } */
 
 .imagen-formulario{
-    background-image: url('../img/logincuatro.jpg');
+    background-image: url('/img/logincuatro.jpg');
     background-position: center center;
     background-size: cover;
     height: 100px;
